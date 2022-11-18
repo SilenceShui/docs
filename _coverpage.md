@@ -1,6 +1,8 @@
 # 开发常用文档
 
-前端：Vue、React
+Web前端：Vue、React
+
+桌面端：WPF
 
 后端：Net、Node
 
